@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://kimcharli.github.io/ckim-hugo/</loc>
+    <loc>https://kimcharli.github.io/ckim-hugo/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kimcharli.github.io/ckim-hugo/categories/</loc>
+    <loc>https://kimcharli.github.io/ckim-hugo/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kimcharli.github.io/ckim-hugo/tags/</loc>
+    <loc>https://kimcharli.github.io/ckim-hugo/tags/</loc>
     <priority>0</priority>
   </url>
   
