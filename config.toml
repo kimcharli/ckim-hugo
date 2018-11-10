@@ -1,0 +1,67 @@
+baseurl         = "https://kimcharli.github.io/ckim-hugo/"
+#theme           = "hugo-casper-two"
+theme           = "ananke"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+
+[params]
+  title       = "Charlie Kim - Blog"
+  subtitle    = "Under Construction - Blog of Charlie Kim"
+
+  cover       = "img/falls.png"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "faketryghost"
+  fbName = "fakeghost"
+  githubName = "eueung"
+
+  logo = "hugo-logo.png"
+  orgName = "JNPR PS"
+  orgWebsite = "https://www.jnpr-ps-cloud.com"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "CKIM"
+  authorAvatar = "img/ckim.png"
+  authorLocation = "Bandung, ID"
+  authorWebsite = "https://kimcharli.github.io"
+  authorDescription = "An Engineer"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 100
+
+[[menu.main]]
+  name = "Go"
+  url = "/tags/golang/"
+  weight = 100
+
+[[menu.main]]
+  name = "Food"
+  url = "/categories/food/"
+  weight = 99
+
+[[menu.main]]
+  name = "External"
+  url = "https://google.com/"
+  weight = 95
