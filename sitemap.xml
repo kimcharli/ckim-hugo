@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kimcharli.github.io/ckim-hugo/posts/certificate-authority/</loc>
+    <lastmod>2018-11-10T02:50:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kimcharli.github.io/ckim-hugo/</loc>
+    <lastmod>2018-11-10T02:50:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kimcharli.github.io/ckim-hugo/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kimcharli.github.io/ckim-hugo/posts/</loc>
+    <lastmod>2018-11-10T02:50:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
